@@ -1,0 +1,6 @@
+{
+  "name": "MATHEMATICS INTERACTIVE BOARD _ PHẠM HẬU",
+  "description": "Bảng tương tác chuyên dụng cho giáo viên toán: viết tay nét thanh đậm, dựng hình học, vẽ đồ thị hàm số bậc 3, hàm nhất biến, hàm bậc 2 trên bậc 1, KaTeX và xuất bản in A4/A5 chuẩn xác.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
